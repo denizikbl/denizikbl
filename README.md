@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deniz İkbal Saylık
+- 👋 Hi, I’m Deniz İkbal 
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Big data, AI, ML
 - 💞️ I’m looking to collaborate on Data science

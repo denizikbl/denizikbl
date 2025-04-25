@@ -6,7 +6,7 @@ Uzmanlık Alanlarım: Backend geliştirme (Node.js, Nest.js, TypeScript, JavaScr
 Şu Anda Çalışıyorum: Sağlık odaklı derin öğrenme projeleri ve açık kaynak backend sistemleri geliştiriyorum.
 Hedefim: Teknolojiyle anlamlı etki yaratmak ve global açık kaynak topluluğunda aktif bir katkıcı olmak.
 
-![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizikbl&show_icons=true&theme=radical)
+
 
 🚀 Öne Çıkan Projelerim
 
@@ -42,7 +42,7 @@ Projelerime göz atın, özellikle sağlık odaklı derin öğrenme projeme katk
 📫 Bana Ulaşın
 
 E-posta: denizikbalsaylik@gmail.com
-LinkedIn: Deniz İkbal Saylık
+LinkedIn: https://www.linkedin.com/in/deniz-ikbal-saylik/
 
 
 

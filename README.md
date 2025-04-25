@@ -1,5 +1,7 @@
 Merhaba! 👋 Ben Deniz
+
 Sakarya Üniversitesi Bilgisayar Mühendisliği mezunuyum. Yazılım geliştirme ve derin öğrenme alanlarında tutkuyla çalışıyorum. Açık kaynak projelerle topluluğa katkıda bulunmayı ve teknolojinin insan hayatını iyileştirdiği çözümler üretmeyi seviyorum.
+
 🌟 Hakkımda
 
 Uzmanlık Alanlarım: Backend geliştirme (Node.js, Nest.js, TypeScript, JavaScript), derin öğrenme (PyTorch, TensorFlow) ve algoritma tasarımı.
@@ -19,30 +21,25 @@ Freespace Segmentation with FCNNFord Otosan stajım sırasında geliştirdiğim,
 
 
 
-Programlama
-Araçlar ve Teknolojiler
-Diğer
-
-
-
-JavaScript, TypeScript, Python, C#, C++
-Node.js, Nest.js, PyTorch, TensorFlow, Git
-Derin Öğrenme, Algoritmalar, API Geliştirme
+| Programlama | Araçlar ve Teknolojiler | Diğer |
+|-------------|-------------------------|-------|
+| JavaScript, TypeScript, Python, C#, C++ | Node.js, Nest.js, PyTorch, TensorFlow, Git | Derin Öğrenme, Algoritmalar, API Geliştirme |
 
 
 
 🌱 Şu Anda Öğreniyorum
 
-Mikroservis mimarileri ve GraphQL.
-Bulut teknolojileri (Docker, AWS).
+- Mikroservis mimarileri ve GraphQL.
+- Bulut teknolojileri (Docker, AWS).
 
 🤝 Katkıda Bulun!
+
 Projelerime göz atın, özellikle sağlık odaklı derin öğrenme projeme katkı sağlamak isterseniz iletişime geçin! Sorularınız, önerileriniz veya katkılarınız için her zaman açığım.
 
 📫 Bana Ulaşın
 
-E-posta: denizikbalsaylik@gmail.com
-LinkedIn: https://www.linkedin.com/in/deniz-ikbal-saylik/
+- E-posta: denizikbalsaylik@gmail.com
+- LinkedIn: [Deniz İkbal Saylık](https://www.linkedin.com/in/deniz-ikbal-saylik/) 
 
 
 

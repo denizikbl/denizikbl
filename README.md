@@ -5,7 +5,9 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği mezunuyum. Yazılım geliştirme
 🌟 Hakkımda
 
 Uzmanlık Alanlarım: Backend geliştirme (Node.js, Nest.js, TypeScript, JavaScript), derin öğrenme (PyTorch, TensorFlow) ve algoritma tasarımı.
+
 Şu Anda Çalışıyorum: Sağlık odaklı derin öğrenme projeleri ve açık kaynak backend sistemleri geliştiriyorum.
+
 Hedefim: Teknolojiyle anlamlı etki yaratmak ve global açık kaynak topluluğunda aktif bir katkıcı olmak.
 
 
